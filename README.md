@@ -9,4 +9,4 @@ am reusit aceasta putand afisa locatia ,temperatura si alte aspecte legate de lo
 Aplicatia a fost implementata folosind modelul MVC studiat in cadrul laboratoarelor ,impartind codul in 4 clase, Events care se acceseaza la apasarea butonului click, Model in care se declara functiile si se apeleaza cu Ajutorul Controllerului, rezultatul fiind returnat si salvat pentru a fi trimis in clasa View pentru afisare
 
 ![](capturiecran/Temperatura.png)
-![](capturiecran/WhatsApp Image 2020-02-03 at 13.59.11.jpeg)
+![](capturiecran/22.png)
